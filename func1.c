@@ -3,5 +3,5 @@
 
 void func1()
 {
-  printf("ha..\n");
+  printf("haha...\n");
 }
