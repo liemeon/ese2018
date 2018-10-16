@@ -22,6 +22,11 @@ void turbo_off()
   printf("turbo_off\n");
 }
 
+void hello()
+{
+  printf("hello brother!!");
+}
+
 int main()
 {
   preprocess();
@@ -32,5 +37,8 @@ int main()
 
   turbo_off();
   postprocess();
+
+  hello();
+
   return 0;
 }
